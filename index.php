@@ -1,1 +1,1 @@
-<?php header('Location: /Trang Cá Nhân.html'); ?>
+<?php header('Location: /Giới thiệu.html'); ?>
